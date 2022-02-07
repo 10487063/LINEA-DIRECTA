@@ -1,0 +1,28 @@
+h1.uno {
+    text-align: center;
+    color: rgb(66, 62, 62);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p.olvidar {
+    color: red;
+    text-align: center;
+}
+
+p.linea {
+    text-align: center;
+}
+p.form {
+    text-align: center;
+    
+}
+p.boton {
+    text-align: center;
+  
+    
+}
+input form2 {
+    width: 20%;
+}
+
+
